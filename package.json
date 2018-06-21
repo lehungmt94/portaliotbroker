@@ -1,5 +1,5 @@
 {
-  "name": "portaliot",
+  "name": "portaliotbroker",
   "version": "1.0.0",
   "description": "",
   "main": "broker.js",
