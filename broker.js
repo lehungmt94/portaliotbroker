@@ -55,10 +55,19 @@ server.on('clientDisconnected', function(client) {
 var http = require('http');
 var date = new Date();
 var http_server = http.createServer(function(req, res) {
-	date =Date();
-  res.writeHead(200, { 'Content-Type': 'text/plain' });
-  res.write('Le Hung MQTT Hello world!\n');
-  res.write(date.toString());
-  res.end('');
+	if(req.url === "/"){
+		date =Date();
+        res.writeHead(200, { 'Content-Type': 'text/plain' });
+        res.write('Le Hung MQTT Hello world!\n');
+        res.write(date.toString());
+        res.end('');
+	} 
+	
+	if(req.url === "/ga"){
+		date =Date();
+        res.writeHead(200, { 'Content-Type': 'text/plain' });
+        res.write('Le Hung ga!\n');
+        res.end('');
+	} 
 });
 http_server.listen(80);
