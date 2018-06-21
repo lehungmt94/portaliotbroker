@@ -1,25 +1,6 @@
-var http = require('http');
-var httpserver = http.createServer(function(req, res) {
-  if(req.url === "/"){
-		date =Date();
-        res.writeHead(200, { 'Content-Type': 'text/plain' });
-        res.write('Le Hung MQTT Hello world!\n');
-        res.write(date.toString());
-        res.end('');
-	} 
-	
-	if(req.url === "/ga"){
-		date =Date();
-        res.writeHead(200, { 'Content-Type': 'text/plain' });
-        res.write('Le Hung ga!\n');
-        res.end('');
-	} 
-});
-httpserver.listen(8080);
-
 var mosca = require('mosca');
 var settings = {
-		port:1883
+		port:8080
 };
 
 var server = new mosca.Server(settings);
