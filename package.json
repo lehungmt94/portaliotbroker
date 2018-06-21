@@ -4,30 +4,27 @@
   "description": "",
   "main": "broker.js",
   "dependencies": {
-   "mosca": "2.6.2"
+    "mosca": "2.8.2"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node broker.js"
   },
-  "author": "Le Hung",
+  "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/lehungmt94/portaliotbroker.git"
-   },
-   "keywords": [
-     "mqtt",
-     "mqtt server",
-     "publish",
-     "subscribe"
-    ],
-   "author": "",
-   "license": "ISC",
-   "bugs": {
-     "url": "https://github.com/lehungmt94/portaliotbroker/issues"
-    },
-    "homepage": "https://github.com/lehungmt94/portaliotbroker"
-
+  },
+  "keywords": [
+    "mqtt",
+    "mqtt server",
+    "publish",
+    "subscribe"
+  ],
+  "bugs": {
+    "url": "https://github.com/lehungmt94/portaliotbroker/issues"
+  },
+  "homepage": "https://github.com/lehungmt94/portaliotbroker"
 }
