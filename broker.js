@@ -15,7 +15,7 @@ var httpserver = http.createServer(function(req, res) {
         res.end('');
 	} 
 });
-httpserver.listen(80);
+httpserver.listen(process.env.PORT);
 
 var mosca = require('mosca');
 var settings = {
