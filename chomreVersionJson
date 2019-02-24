@@ -1,0 +1,392 @@
+[
+  {
+    "id": "78",
+    "ChormeVersion": "72.0.3626.96",
+    "minSdk": "19"
+  },
+  {
+    "id": "77",
+    "ChormeVersion": "72.0.3626.76",
+    "minSdk": "19"
+  },
+  {
+    "id": "76",
+    "ChormeVersion": "71.0.3578.99",
+    "minSdk": "16"
+  },
+  {
+    "id": "75",
+    "ChormeVersion": "71.0.3578.98",
+    "minSdk": "21"
+  },
+  {
+    "id": "74",
+    "ChormeVersion": "71.0.3578.83",
+    "minSdk": "16"
+  },
+  {
+    "id": "73",
+    "ChormeVersion": "70.0.3538.110",
+    "minSdk": "16"
+  },
+  {
+    "id": "72",
+    "ChormeVersion": "70.0.3538.80",
+    "minSdk": "16"
+  },
+  {
+    "id": "71",
+    "ChormeVersion": "70.0.3538.64",
+    "minSdk": "16"
+  },
+  {
+    "id": "70",
+    "ChormeVersion": "69.0.3497.100",
+    "minSdk": "16"
+  },
+  {
+    "id": "69",
+    "ChormeVersion": "69.0.3497.91",
+    "minSdk": "16"
+  },
+  {
+    "id": "68",
+    "ChormeVersion": "69.0.3497.86",
+    "minSdk": "16"
+  },
+  {
+    "id": "67",
+    "ChormeVersion": "69.0.3497.76",
+    "minSdk": "16"
+  },
+  {
+    "id": "66",
+    "ChormeVersion": "68.0.3440.91",
+    "minSdk": "16"
+  },
+  {
+    "id": "65",
+    "ChormeVersion": "68.0.3440.85",
+    "minSdk": "16"
+  },
+  {
+    "id": "64",
+    "ChormeVersion": "68.0.3440.70",
+    "minSdk": "16"
+  },
+  {
+    "id": "63",
+    "ChormeVersion": "67.0.3396.87",
+    "minSdk": "16"
+  },
+  {
+    "id": "62",
+    "ChormeVersion": "67.0.3396.81",
+    "minSdk": "16"
+  },
+  {
+    "id": "61",
+    "ChormeVersion": "67.0.3396.68",
+    "minSdk": "16"
+  },
+  {
+    "id": "60",
+    "ChormeVersion": "66.0.3359.158",
+    "minSdk": "21"
+  },
+  {
+    "id": "59",
+    "ChormeVersion": "66.0.3359.126",
+    "minSdk": "16"
+  },
+  {
+    "id": "58",
+    "ChormeVersion": "66.0.3359.106",
+    "minSdk": "16"
+  },
+  {
+    "id": "57",
+    "ChormeVersion": "65.0.3325.109",
+    "minSdk": "16"
+  },
+  {
+    "id": "56",
+    "ChormeVersion": "64.0.3282.137",
+    "minSdk": "16"
+  },
+  {
+    "id": "55",
+    "ChormeVersion": "64.0.3282.123",
+    "minSdk": "21"
+  },
+  {
+    "id": "54",
+    "ChormeVersion": "64.0.3282.116",
+    "minSdk": "21"
+  },
+  {
+    "id": "53",
+    "ChormeVersion": "63.0.3239.107",
+    "minSdk": "16"
+  },
+  {
+    "id": "52",
+    "ChormeVersion": "63.0.3239.83",
+    "minSdk": "21"
+  },
+  {
+    "id": "51",
+    "ChormeVersion": "62.0.3202.84",
+    "minSdk": "21"
+  },
+  {
+    "id": "50",
+    "ChormeVersion": "62.0.3202.73",
+    "minSdk": "21"
+  },
+  {
+    "id": "49",
+    "ChormeVersion": "62.0.3202.66",
+    "minSdk": "21"
+  },
+  {
+    "id": "48",
+    "ChormeVersion": "61.0.3163.98",
+    "minSdk": "16"
+  },
+  {
+    "id": "47",
+    "ChormeVersion": "61.0.3163.81",
+    "minSdk": "21"
+  },
+  {
+    "id": "46",
+    "ChormeVersion": "60.0.3112.116",
+    "minSdk": "21"
+  },
+  {
+    "id": "45",
+    "ChormeVersion": "60.0.3112.107",
+    "minSdk": "16"
+  },
+  {
+    "id": "44",
+    "ChormeVersion": "60.0.3112.97",
+    "minSdk": "21"
+  },
+  {
+    "id": "43",
+    "ChormeVersion": "60.0.3112.78",
+    "minSdk": "16"
+  },
+  {
+    "id": "42",
+    "ChormeVersion": "59.0.3071.125",
+    "minSdk": "21"
+  },
+  {
+    "id": "41",
+    "ChormeVersion": "59.0.3071.117",
+    "minSdk": "16"
+  },
+  {
+    "id": "40",
+    "ChormeVersion": "59.0.3071.92",
+    "minSdk": "21"
+  },
+  {
+    "id": "39",
+    "ChormeVersion": "59.0.3071.92",
+    "minSdk": "24"
+  },
+  {
+    "id": "38",
+    "ChormeVersion": "59.0.3071.92",
+    "minSdk": "16"
+  },
+  {
+    "id": "37",
+    "ChormeVersion": "58.0.3029.83",
+    "minSdk": "16"
+  },
+  {
+    "id": "36",
+    "ChormeVersion": "57.0.2987.132",
+    "minSdk": "16"
+  },
+  {
+    "id": "35",
+    "ChormeVersion": "57.0.2987.108",
+    "minSdk": "21"
+  },
+  {
+    "id": "34",
+    "ChormeVersion": "56.0.2924.87",
+    "minSdk": "16"
+  },
+  {
+    "id": "33",
+    "ChormeVersion": "55.0.2883.91",
+    "minSdk": "16"
+  },
+  {
+    "id": "32",
+    "ChormeVersion": "55.0.2883.84",
+    "minSdk": "16"
+  },
+  {
+    "id": "31",
+    "ChormeVersion": "54.0.2840.85",
+    "minSdk": "21"
+  },
+  {
+    "id": "30",
+    "ChormeVersion": "54.0.2840.85",
+    "minSdk": "16"
+  },
+  {
+    "id": "29",
+    "ChormeVersion": "54.0.2840.68",
+    "minSdk": "21"
+  },
+  {
+    "id": "28",
+    "ChormeVersion": "53.0.2785.124",
+    "minSdk": "21"
+  },
+  {
+    "id": "27",
+    "ChormeVersion": "53.0.2785.124",
+    "minSdk": "16"
+  },
+  {
+    "id": "26",
+    "ChormeVersion": "53.0.2785.97",
+    "minSdk": "16"
+  },
+  {
+    "id": "25",
+    "ChormeVersion": "52.0.2743.98",
+    "minSdk": "24"
+  },
+  {
+    "id": "24",
+    "ChormeVersion": "52.0.2743.91",
+    "minSdk": "16"
+  },
+  {
+    "id": "23",
+    "ChormeVersion": "51.0.2704.81",
+    "minSdk": "16"
+  },
+  {
+    "id": "22",
+    "ChormeVersion": "51.0.2704.81",
+    "minSdk": "16"
+  },
+  {
+    "id": "21",
+    "ChormeVersion": "51.0.2704.77",
+    "minSdk": "16"
+  },
+  {
+    "id": "20",
+    "ChormeVersion": "50.0.2661.89",
+    "minSdk": "16"
+  },
+  {
+    "id": "19",
+    "ChormeVersion": "49.0.2623.105",
+    "minSdk": "16"
+  },
+  {
+    "id": "18",
+    "ChormeVersion": "49.0.2623.91",
+    "minSdk": "16"
+  },
+  {
+    "id": "17",
+    "ChormeVersion": "48.0.2564.95",
+    "minSdk": "16"
+  },
+  {
+    "id": "16",
+    "ChormeVersion": "47.0.2526.83",
+    "minSdk": "16"
+  },
+  {
+    "id": "15",
+    "ChormeVersion": "47.0.2526.76",
+    "minSdk": "16"
+  },
+  {
+    "id": "14",
+    "ChormeVersion": "46.0.2490.76",
+    "minSdk": "16"
+  },
+  {
+    "id": "13",
+    "ChormeVersion": "46.0.2490.76",
+    "minSdk": "21"
+  },
+  {
+    "id": "12",
+    "ChormeVersion": "45.0.2454.94",
+    "minSdk": "21"
+  },
+  {
+    "id": "11",
+    "ChormeVersion": "45.0.2454.94",
+    "minSdk": "16"
+  },
+  {
+    "id": "10",
+    "ChormeVersion": "44.0.2403.133",
+    "minSdk": "16"
+  },
+  {
+    "id": "9",
+    "ChormeVersion": "43.0.2357.93",
+    "minSdk": "16"
+  },
+  {
+    "id": "8",
+    "ChormeVersion": "43.0.2357.78",
+    "minSdk": "16"
+  },
+  {
+    "id": "7",
+    "ChormeVersion": "42.0.2311.111",
+    "minSdk": "16"
+  },
+  {
+    "id": "6",
+    "ChormeVersion": "42.0.2311.109",
+    "minSdk": "16"
+  },
+  {
+    "id": "5",
+    "ChormeVersion": "41.0.2272.96",
+    "minSdk": "16"
+  },
+  {
+    "id": "4",
+    "ChormeVersion": "40.0.2214.109",
+    "minSdk": "16"
+  },
+  {
+    "id": "3",
+    "ChormeVersion": "40.0.2214.89",
+    "minSdk": "16"
+  },
+  {
+    "id": "2",
+    "ChormeVersion": "40.0.2214.109",
+    "minSdk": "16"
+  },
+  {
+    "id": "1",
+    "ChormeVersion": "40.0.2214.89",
+    "minSdk": "16"
+  } 
+]
